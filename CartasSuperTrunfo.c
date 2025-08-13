@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Desafio Super trunfo - Aluno:Rafael Palmares: Estácio 1º semestre Prof°: Sérgio Cardoso
+
 int main(){
 
     int população1, pontos1;
